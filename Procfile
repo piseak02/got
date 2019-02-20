@@ -1,1 +1,1 @@
-    web: pisek.go
+    web: pisek
